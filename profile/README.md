@@ -13,8 +13,6 @@ In addition, we offer cryptocurrency audits, Blockchain, Smart Contracts and DeF
 
 Founded by security experts and analysts with extensive experience in the Cybersecurity sector. [Red4Sec](https://red4sec.com) is a pioneer in the security of Blockchains and Smart Contracts, we use the best technology available and in-depth knowledge to secure and monitor your projects. 
 
-## Protect your company
-
 We are a team of experts in the field of Cybersecurity, with extensive experience in the sector. We have more than 15 years of experience in cybersecurity and we are leaders in blockchain audits since 2017.
 
 ## Our Services
