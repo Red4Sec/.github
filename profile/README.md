@@ -5,27 +5,27 @@
 Red4Sec Cybersecurity
 </h1>
 <p align="center">
-Experts in Ethical Hacking, Web and Mobile Application audits, source code audits, cryptocurrency audits, perimeter security and incident response.
-In addition, we offer cryptocurrency audits, Blockchain, Smart Contracts and DeFi audits.
+Experts in ethical hacking, penetration testing, web and mobile application security audits, source code review, and perimeter security.
+We also provide AI Security & LLM Auditing, along with specialized services for Web3, blockchain, and smart contract security.
 </p>
 
 ## About Us
 
-Founded by security experts and analysts with extensive experience in the Cybersecurity sector. [Red4Sec](https://red4sec.com) is a pioneer in the security of Blockchains and Smart Contracts, we use the best technology available and in-depth knowledge to secure and monitor your projects. 
+Founded by security experts and analysts with deep industry experience, [Red4Sec](https://red4sec.com) is a cybersecurity firm specialized in offensive security, advanced security assessments, and the protection of critical environments. We combine advanced technology, deep technical expertise, and a rigorous methodology to secure and assess complex projects.
 
-We are a team of experts in the field of Cybersecurity, with extensive experience in the sector. We have more than 15 years of experience in cybersecurity and we are leaders in blockchain audits since 2017.
+We are a team of cybersecurity specialists with a strong track record in the industry. With more than 10 years of experience, we have become a trusted name in offensive security, penetration testing, specialized audits, and blockchain security since 2017.
 
 ## Our Services
 
 We offer a wide range of services oriented to different areas, collaborating every day to make the world of cybersecurity safer. By developing cybersecurity strategies and risk analysis for your projects.
-1. :chains: **Blockchain and Smart Contracts Audits**
-2. :chart_with_upwards_trend: **Analysis and Verification of Vulnerabilities**
-3. :shield: **Hacking as a Service**
-4. :desktop_computer: **Web Security**
-5. :closed_lock_with_key: **Infrastructure Audit**
-6. :iphone: **Mobile Audits**
-7. :bug: **Malware Analysis**
 
+1. :shield: **Penetration Testing & Offensive Security**
+2. :desktop_computer: **Web Security**
+3. :iphone: **Mobile Application Security Audits**
+4. :robot: **AI Security & LLM Auditing**
+5. :closed_lock_with_key: **Infrastructure Audits**
+6. :chains: **Blockchain and Smart Contract Audits**
+7. :bug: **Vulnerability Analysis and Verification**
 
 ## Contact
 
